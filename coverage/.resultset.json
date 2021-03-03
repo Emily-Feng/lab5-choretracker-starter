@@ -37,6 +37,13 @@
       "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/models/child.rb": [
         1,
         null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        0,
+        null,
         null
       ],
       "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/models/application_record.rb": [
@@ -304,6 +311,6 @@
         0
       ]
     },
-    "timestamp": 1614734502
+    "timestamp": 1614734893
   }
 }
