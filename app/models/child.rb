@@ -1,10 +1,19 @@
 class Child < ApplicationRecord
 
     # Relationships
-    have_many(:chores)
-    have_many(:tasks).through(:chores)
+    has_many :chores 
+    has_many :tasks, through: :chores
 
     # Validations
-    validate_presence_of :first_name, :last_name
+    validates_presence_of :first_name, :last_name
+
+    # Scope
+    scope :alphabetical, -> { order('last_name, first_name') }
+    scope :active, -> { where('active': true) }
+
+    # Methods
+    def name
+        first_name + " " + last_name
+    end
 
 end

@@ -39,10 +39,19 @@
         null,
         null,
         1,
-        0,
+        1,
         null,
         null,
-        0,
+        1,
+        null,
+        null,
+        3,
+        2,
+        null,
+        null,
+        1,
+        3,
+        null,
         null,
         null
       ],
@@ -52,8 +61,8 @@
         null
       ],
       "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/models/chore.rb": [
-        0,
-        0
+        1,
+        null
       ],
       "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/models/task.rb": [
         0,
@@ -311,6 +320,6 @@
         0
       ]
     },
-    "timestamp": 1614734893
+    "timestamp": 1614736003
   }
 }
