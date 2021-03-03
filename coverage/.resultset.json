@@ -34,6 +34,36 @@
   },
   "Unit Tests": {
     "coverage": {
+      "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/models/task.rb": [
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        3,
+        2,
+        null,
+        null
+      ],
+      "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/models/chore.rb": [
+        1,
+        null,
+        null,
+        1,
+        1,
+        null
+      ],
       "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/models/child.rb": [
         1,
         null,
@@ -54,19 +84,6 @@
         null,
         null,
         null
-      ],
-      "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
-      "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/models/chore.rb": [
-        1,
-        null
-      ],
-      "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/models/task.rb": [
-        0,
-        0
       ],
       "/Users/emilyfeng/Desktop/67272/labs/lab5-choretracker-starter/app/controllers/application_controller.rb": [
         0,
@@ -320,6 +337,6 @@
         0
       ]
     },
-    "timestamp": 1614736150
+    "timestamp": 1614736917
   }
 }
